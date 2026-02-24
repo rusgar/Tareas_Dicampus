@@ -17,7 +17,7 @@
 
 ## 📌 ¿Qué es este repositorio?
 
-Este repositorio contiene los **mini-proyectos prácticos** del curso de **IA para la Programación** impartido por [Fundación Dicampus](https://dicampus.es) en colaboración con **Inclusión Socio-Laboral**.
+Este repositorio contiene los **mini-proyectos prácticos** del curso de **IA para la Programación** impartido por [Fundación Dicampus](https://fundaciondicampus.org) en colaboración con **Inclusión Socio-Laboral**.
 
 Cada proyecto se desarrolla de forma **incremental con commits progresivos**, utilizando herramientas de IA como asistente de generación de código. El objetivo es aprender a colaborar con la IA de forma profesional: generando, analizando, validando y mejorando el código generado.
 
@@ -63,7 +63,7 @@ Cada proyecto sigue el mismo flujo de trabajo profesional:
 
 ---
 
-## 📁 Estructura de cada proyecto
+## 📁 Estructura de cada proyecto(INICIAL)
 
 ```
 nombre-proyecto/
@@ -90,6 +90,9 @@ cd Tareas_Dicampus/NOMBRE_PROYECTO
 
 # Ejecutar con Python
 python src/main.py
+
+# O accediendo al boton verde Code
+Open with Github Desktop
 ```
 
 > **Requisito:** Python 3.10 o superior instalado. Todos los proyectos usan únicamente la biblioteca estándar de Python (sin instalaciones adicionales).
@@ -104,7 +107,7 @@ Este repositorio está bajo la licencia **MIT**. Consulta el archivo [LICENSE](.
 
 <div align="center">
 
-Desarrollado con 💛 en el marco del curso de **IA para la Programación**
+Desarrollado con 💛🧡 en el marco del curso de **IA para la Programación**
 
 [![Dicampus](https://img.shields.io/badge/Fundación-Dicampus-F5A623?style=for-the-badge)](https://dicampus.es)
 [![Inclusión](https://img.shields.io/badge/Inclusión-Socio--Laboral-4DB6AC?style=for-the-badge)](https://dicampus.es)
