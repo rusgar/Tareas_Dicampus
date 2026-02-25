@@ -29,7 +29,8 @@ Cada proyecto se desarrolla de forma **incremental con commits progresivos**, ut
 |---|----------|-------------|--------|
 | 01 | [🧮 Calculadora de Propinas](./CALCULADORA_DE_PROPINAS) | Calcula propinas por porcentaje o monto fijo y divide la cuenta entre personas | ✅ En desarrollo |
 | 02 | [✂️ Juego Piedra, Papel o Tijera](./JUEGO_DE_PIEDRA_PAPEL_O_TIJERA) | Juego interactivo en terminal contra la computadora con estadísticas de partida | ✅ En desarrollo |
-| 03 | *Próximamente...* | — | 🔜 |
+| 03 | [🔐 Generador de Contraseñas](./GENERADOR_DE_CONTRASENAS) | Genera contraseñas seguras personalizables con evaluación de fortaleza |  ✅ En desarrollo  |
+| 04 | *Próximamente...* | — | 🔜 |
 
 ---
 
