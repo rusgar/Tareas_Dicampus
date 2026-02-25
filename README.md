@@ -4,9 +4,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA](https://img.shields.io/badge/IA%20Asistida-Claude%20%7C%20Copilot-F5A623?style=for-the-badge&logo=anthropic&logoColor=white)
+![IA](https://img.shields.io/badge/IA%20Asistida-ChatGPT%20%7C%20Gemini-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Control%20de%20Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![License](https://img.shields.io/badge/Licencia-MIT-4DB6AC?style=for-the-badge)
+
+
 
 **Mini-proyectos prácticos de programación con Python y asistencia de IA**  
 *Curso de Generación y Optimización de Código con IA · Fundación Dicampus*
