@@ -34,6 +34,7 @@ Cada proyecto se desarrolla de forma **incremental con commits progresivos**, ut
 | 02 | [✂️ Juego Piedra, Papel o Tijera](./JUEGO_DE_PIEDRA_PAPEL_O_TIJERA) | Juego interactivo en terminal contra la computadora con estadísticas de partida | ✅ En desarrollo |
 | 03 | [🔐 Generador de Contraseñas](./GENERADOR_DE_CONTRASENAS) | Genera contraseñas seguras personalizables con evaluación de fortaleza |  ✅ En desarrollo  |
 | 04 | [📊 Contador de Palabras](./CONTADOR_DE_PALABRAS) | Analiza textos introducidos en terminal o desde archivo .txt | ✅ En desarrollo |
+| 06 | [🎲 Simulador de Dados](./SIMULADOR_DE_DADOS) | Simula lanzamientos de dados con estadísticas e histograma en terminal | ✅ En desarrollo|
 | 05 | *Próximamente...* | — | 🔜 |
 
 ---
